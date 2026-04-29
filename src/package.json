@@ -750,7 +750,7 @@
 		"sound-play": "^1.1.0",
 		"stream-json": "^1.8.0",
 		"string-similarity": "^4.0.4",
-		"strip-ansi": "^7.1.0",
+		"strip-ansi": "^7.2.0",
 		"strip-bom": "^5.0.0",
 		"tar-fs": "^3.1.1",
 		"tiktoken": "^1.0.21",
